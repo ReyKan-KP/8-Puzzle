@@ -111,6 +111,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-This README.md template now includes how to play the 8 Puzzle game and the rules for playing it. Customize the README.md as needed for your project, replacing placeholders like `yourusername` and `feature-name` with actual values.
